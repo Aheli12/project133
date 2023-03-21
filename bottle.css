@@ -1,0 +1,26 @@
+body {
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+.heading{
+    width:100%;
+    margin-top:0px;
+}
+.heading:hover{
+    font-size: large;
+}
+.link{
+    background-color:black;
+    width:80px;
+    border-radius:10px;
+    float:right;
+}
+canvas{
+    border-radius:10px;
+    box-shadow: 7px 7px 7px grey;}
